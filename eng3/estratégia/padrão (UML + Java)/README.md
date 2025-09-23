@@ -1,4 +1,4 @@
-Esta implementação do padrão Strategy foi desenvolvida como um exercício prático para aplicar os conceitos estudados na disciplina de Engenharia de Software 3.
+Esta implementação do padrão do comportamento Strategy foi desenvolvida como um exercício prático para aplicar os conceitos estudados na disciplina de Engenharia de Software 3.
 
 
 classDiagram
