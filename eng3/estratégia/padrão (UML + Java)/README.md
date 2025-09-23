@@ -4,7 +4,6 @@ Esta implementação do padrão do comportamento Strategy foi desenvolvida como 
 classDiagram
 
     class EstrategiaDePreco {
-        <<Interface>>
         +calcular(valorBase: double) double
     }
 
