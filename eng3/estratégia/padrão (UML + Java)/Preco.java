@@ -1,4 +1,4 @@
 @FunctionalInterface
-public interface EstrategiaDePreco {
+public interface Preco {
     double calcular(double valorBase);
 }

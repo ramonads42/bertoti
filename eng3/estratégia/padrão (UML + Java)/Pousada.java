@@ -1,7 +1,7 @@
 public class Pousada {
-    private EstrategiaDePreco estrategia;
+    private Preco estrategia;
 
-    public void setEstrategia(EstrategiaDePreco estrategia) {
+    public void setEstrategia(Preco estrategia) {
         this.estrategia = estrategia;
     }
 
