@@ -1,5 +1,6 @@
 Esta implementação do padrão Observer foi desenvolvida como um exercício prático para aplicar os conceitos estudados na disciplina de Engenharia de Software 3.
 
+![Diagrama UML - Strategy](docs/diagrama/observer.png)
 
 classDiagram
  
